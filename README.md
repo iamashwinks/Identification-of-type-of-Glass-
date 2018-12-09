@@ -1,4 +1,4 @@
-# Identification-of-type-of-Glass-
+# Identification of type of Glass
 
 Trained two models using KNN algorithm and neural networks(TensorFLow) on UCI’s Glass Dataset. 
 
